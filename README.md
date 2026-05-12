@@ -1,7 +1,7 @@
 <h1>Ticketing Systems</h1>
 
 <h2>Description</h2>
-An Lab for Ticketing System 
+A Lab for Ticketing System 
 <br />
 
 
